@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## ABC
 
-this is abc
+this is ABC
 
 ## XYZ
 
@@ -16,4 +16,4 @@ Sample website with plenty of files for demos
 
 ## Conclusion
 
-This is just a sample
+This is just a sample. Adding one more for not staging
