@@ -2,11 +2,11 @@
 
 This repository is for showing how Git and GitHub work
 
-##ABC
+## ABC
 
 this is abc
 
-##XYZ
+## XYZ
 
 this is XYZ
 
@@ -14,6 +14,6 @@ this is XYZ
 
 Sample website with plenty of files for demos
 
-##Conclusion
+## Conclusion
 
 This is just a sample
