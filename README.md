@@ -19,3 +19,4 @@ Sample website with plenty of files for demos
 This is just a sample. Adding one more for not staging
 
 copyright: Santhosh
+Added directly to Master
