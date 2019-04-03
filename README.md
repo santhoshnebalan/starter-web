@@ -17,3 +17,5 @@ Sample website with plenty of files for demos
 ## Conclusion
 
 This is just a sample. Adding one more for not staging
+
+copyright: Santhosh
