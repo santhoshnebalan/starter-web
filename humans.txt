@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Santhosh santhoshknebalan@gmail.com
 
 # THANKS
 
